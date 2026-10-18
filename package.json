@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@oclif/core": "^4.10.5",
-    "js-yaml": "^4.1.1",
+    "js-yaml": "^4.3.2",
     "p-retry": "^4.6.2",
     "yaml": "^2.8.3"
   },
@@ -75,6 +75,6 @@
     "execa": "^9.6.1",
     "tsx": "^4.21.0",
     "typescript": "^6.0.2",
-    "vitest": "^4.1.0"
+    "vitest": "^5.0.5"
   }
 }
